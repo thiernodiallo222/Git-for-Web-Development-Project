@@ -17,7 +17,7 @@ You will need to follow the Lambda School Git Workflow to add a file to this pro
   - [ ] Add your TL as a reviewer on the Pull-Request
 - [ ] TL then will count the Assignment as done by merging the HW back into master "STUDENT FORK".
 
-## Part Two:
+## Part Two:n 
 Go back and follow the same steps for your [UI-III-Flexbox project](https://github.com/LambdaSchool/UI-III-Flexbox) and your [User Interface - Great Idea Project](https://github.com/LambdaSchool/User-Interface).
 
 In order to do this, you **do not** need to create new forks of these projects. Follow the steps below for each project:
@@ -41,4 +41,4 @@ In order to do this, you **do not** need to create new forks of these projects. 
 
 - [ ] Research and setup SSH keys with GitHub, so that you do not need to input your username/password each time you push. 
 
-
+- Thierno Diallo
