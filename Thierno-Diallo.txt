@@ -1,0 +1,2 @@
+Hello,
+My name is Thierno Diallo, and this is my .txt file I created in regard of the homework that I am working on regarding the GitHub and web dev section.
